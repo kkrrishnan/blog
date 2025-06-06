@@ -3,6 +3,7 @@ title: 3 Pillars of a Scientist
 date: 2025-03-04 23:57:00 +0530
 categories: [Philosophy]
 tags: [self growth, philosophy, rational thinking]
+author: Krishnan
 ---
 
 Ok so, mai keh raha tha, ki mai abhi maths padh rha tha and mene dekha “ real number” . Now I was thinking ki why I am learning this? and I found that: 
