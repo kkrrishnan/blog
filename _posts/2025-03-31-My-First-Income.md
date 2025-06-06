@@ -1,6 +1,7 @@
 ---
 title: [My First Income]
 date: [2025-03-31 23:57:00 +0530]
+author: Krishnan
 categories: [Achieving Goals]
 tags: [Goals , Inspiration , First Paycheck , Success Story , Achievement]
 ---
